@@ -13,7 +13,7 @@ sudo su
   ```
   2. Make sure git is installed on the host os. then clone the following repository using the command:
   ```sh
-git clone https://github.com/tapenderk/devops_tools_installation.git
+git clone https://github.com/jnicolas6/devops_tools_installation.git 
   ```
   3. Change directory to newly created folder and start the auto-installation script
   ```sh
